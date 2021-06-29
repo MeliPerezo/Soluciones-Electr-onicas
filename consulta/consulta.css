@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "ABeeZee";
+  text-align: center;
+}
+.barra {
+  margin-bottom: 5vw;
+}
+.body {
+  background-color: #d4e3fc;
+}
+h1 {
+  font-weight: bolder !important;
+  margin-top: 2vw !important;
+  background: #d4e3fc;
+  padding: 4px 12px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+  border: #000000 1px solid;
+  border-radius: 35px;
+  display: inline-block;
+}
+.descripcion {
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40vw;
+}
+.start p {
+  margin-top: 2vw;
+  display: inline-block;
+  padding: 0px 8px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.75);
+  background: #ebebeb;
+  border: #000000 1px solid;
+  border-radius: 15px;
+  font-size: 2em;
+}
+.pie {
+  margin-top: 5vw;
+}
