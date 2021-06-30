@@ -1,0 +1,15 @@
+h1#tittle {
+	text-align: center;
+}
+
+p#description {
+	text-align: center;
+}
+
+h2.subtittle {
+	text-align: center;
+}
+
+p.column-description {
+	text-align: center;
+}
