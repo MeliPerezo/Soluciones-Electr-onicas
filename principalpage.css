@@ -13,3 +13,11 @@ h2.subtittle {
 p.column-description {
 	text-align: center;
 }
+
+img.img-columns {
+	height: 10rem;
+}
+
+container-fluid {
+	margin: 0;
+}
