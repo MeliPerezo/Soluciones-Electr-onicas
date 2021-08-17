@@ -1,0 +1,30 @@
+nav#navBar {
+	width: 100%;
+	background-image: url(../src/img/comercio_internacional.jpg);
+	background-size: contain;
+}
+
+a.nav-link {
+	margin-right: 1rem;
+	background: rgba(255, 255, 255, 0.15);
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+div.footer {
+	opacity: 76%;
+	background: #cbe8f6;
+	margin: 0px -10px;
+	text-align: center;
+}
+
+div.footer img {
+	width: 7%;
+	height: 2%;
+	box-shadow: 0px 0px 19px rgba(0, 0, 0, 0.75);
+	margin-right: 5%;
+	border-radius: 15px;
+}
