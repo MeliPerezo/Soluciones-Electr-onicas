@@ -23,6 +23,14 @@ div.container-fluid {
     background-color: rgb(238, 248, 252);
 }
 
+p.card-text {
+    text-align: justify;
+}
+
+p.datte {
+    text-align: center;
+}
+
 div.card {
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
 }
