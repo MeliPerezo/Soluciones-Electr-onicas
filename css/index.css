@@ -18,12 +18,19 @@ h1#tittle {
     text-align: center;
     font-weight: bolder !important;
     font-size: 3rem;
-    margin-top: 4vw !important;
     background: #d4e3fc;
     padding: 4px 12px;
     box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
     border: #000000 1px solid;
     border-radius: 35px;
+}
+
+h5.card-title {
+    text-align: center;
+}
+
+p.card-text {
+    text-align: justify;
 }
 
 p#description {
